@@ -2,7 +2,7 @@
 
 ## Welcome
 
-This semester I learned about many different types of data structers and their uses in programming in python.
+This semester I learned about many different types of data structures and their uses in programming in python.
 This project will overview and provide a tutorial for three of those data structures.
 - Stacks
 - Linked Lists
@@ -12,10 +12,10 @@ Each tutorial will introduce the basic concepts of the data structure including 
 Each tutorial will also include a worked example of an application of the data structure and problem to solve using the data structure.
 
 ## Table of Contents
-### Section 1 - Stacks:
+### [Section 1 - Stacks](stacks/stacks.md):
 - What is a stack?
 - The "undo" function of a stack
-- Software and the function stack
+- Operations on a stack
 - Worked example
 - Problem to solve
 
