@@ -19,11 +19,10 @@ Each tutorial will also include a worked example of an application of the data s
 - Worked example
 - Problem to solve
 
-### Section 2 - Linked Lists:
+### [Section 2 - Linked Lists](linked_lists/linked_lists.md):
 - What is a linked list?
 - Inserting into a linked list
 - Removing from a linked list
-- Accessing from a linked list
 - Worked example
 - Problem to solve
 
