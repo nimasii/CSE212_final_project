@@ -26,9 +26,8 @@ Each tutorial will also include a worked example of an application of the data s
 - Worked example
 - Problem to solve
 
-### Section 3 - Trees:
+### [Section 3 - Trees](trees/trees.md):
 - What is a tree?
-- Binary, binary search, and balanced binary search trees
 - Inserting into a BST
 - Traversing a BST
 - Worked example
