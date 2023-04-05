@@ -29,6 +29,5 @@ Each tutorial will also include a worked example of an application of the data s
 ### [Section 3 - Trees](trees/trees.md):
 - What is a tree?
 - Inserting into a BST
-- Traversing a BST
 - Worked example
 - Problem to solve
